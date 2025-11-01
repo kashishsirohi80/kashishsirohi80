@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kashishsirohi80
 - 👀 I’m interested in exploring new technical trends!!
 - 🌱 I’m currently learning web development and dsa
-- 📫 How to reach me kashishsirohi80@gnail.com
+- 📫 How to reach me kashishsirohi80@gmail.com
 
 
 <!---
